@@ -2,6 +2,8 @@
 
 
 /* Show Grid */
-.showgrid {
-	background: url("../img/grid-bg.png") repeat-y;
+body {
+	background: silver;
+	font-family: 'Averia Sans Libre', cursive;
+	list-style: none;
 }
